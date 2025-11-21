@@ -3,8 +3,8 @@ titre: "Tartiflette"
 description: "Une recette hivernale."
 auteur: "<asenou>"
 date: 2025-11-21
-temps_de_préparation: "15 min"
-temps_de_cuisson: "1 heure"
+temps_de_préparation: "15 min"
+temps_de_cuisson: "1 heure"
 temps_de_repos: ""
 difficulté: "Facile"
 portions: 4 personnes
@@ -31,7 +31,7 @@ conseils:
 
 # Préparation
 
-1. Eplucher les pommes de terre, les couper en dés, bien les rincer et les essuyer dans un torchon propre.
-2. Faire chauffer l'huile dans une poêle, y faire fondre les oignons.
+1. Éplucher les pommes de terre, les couper en dés, bien les rincer et les essuyer dans un torchon propre.
+2. Faire chauffer l’huile dans une poêle, y faire fondre les oignons.
 3. 
 
