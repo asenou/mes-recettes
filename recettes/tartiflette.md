@@ -3,8 +3,8 @@ titre: "Tartiflette"
 description: "Une recette hivernale."
 auteur: "<asenou>"
 date: 2025-11-21
-temps_de_préparation: "15 min"
-temps_de_cuisson: "1 heure"
+temps_de_préparation: "15 min"
+temps_de_cuisson: "1 heure"
 temps_de_repos: ""
 difficulté: "Facile"
 portions: 4 personnes
