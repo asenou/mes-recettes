@@ -32,6 +32,6 @@ conseils:
 # Préparation
 
 1. Eplucher les pommes de terre, les couper en dés, bien les rincer et les essuyer dans un torchon propre.
-2. Faire chauffer l'huile dans une poêle, y faire fondre les oignons.
+2. Faire chauffer l’huile dans une poêle, y faire fondre les oignons.
 3. 
 
